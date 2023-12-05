@@ -1,2 +1,6 @@
 data/
 logs/
+train_outputs/
+wandb/
+full_dataset/
+bitsandbytes/
